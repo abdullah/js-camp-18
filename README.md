@@ -1,10 +1,5 @@
 # Camp'18
 
-Modern gelistirme araclari, neden ihtiyac duyuyoruz, nasil kullanabiliriz etc.
-Optimizasyon -- Google Closure Compiler, Webpack, CSS optimization, JS factory classes etc.
-Debug nedir? Hangi tool'lar ile debug yapilir? Developer console araciligi ile ufak bir demo.
-
-
 ## Modern gelistirme aracillari
 
 * Git and GitHub/Gitlab
